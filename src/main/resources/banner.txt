@@ -1,0 +1,6 @@
+${AnsiColor.BRIGHT_MAGENTA}   ______   ____    __    ____  __          ___      .______    __
+${AnsiColor.BRIGHT_MAGENTA}  /  __  \  \   \  /  \  /   / |  |        /   \     |   _  \  |  |
+${AnsiColor.BRIGHT_MAGENTA} |  |  |  |  \   \/    \/   /  |  |       /  ^  \    |  |_)  | |  |
+${AnsiColor.BRIGHT_MAGENTA} |  |  |  |   \            /   |  |      /  /_\  \   |   ___/  |  |
+${AnsiColor.BRIGHT_MAGENTA} |  `--'  |    \    /\    /    |  `----./  _____  \  |  |      |  |
+${AnsiColor.BRIGHT_MAGENTA}  \______/      \__/  \__/     |_______/__/     \__\ | _|      |__|
